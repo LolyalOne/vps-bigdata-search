@@ -3,7 +3,9 @@
 Este documento detalha **todos os arquivos principais** que compõem o sistema de pesquisa e inteligência em Big Data (34.2M+ de registros), mapeando a função de cada arquivo, seus objetivos técnicos e a correlação com a arquitetura do projeto.
 
 > [!CAUTION]
-> **AVISO DE SANITIZAÇÃO & CASO DE ESTUDO REAL:** Este projeto é um estudo de caso derivado de um servidor em VPS configurado para um cliente privado (taxa horária de **$20/h**, total faturado de **$1.250 USD**). Todas as configurações em produção já foram atualizadas e todos os dados sensíveis, credenciais reais, portas, IPs e chaves de API foram completamente removidos ou mockados.
+> **AVISO DE SANITIZAÇÃO & CASO DE ESTUDO REAL / SENSITIVE DATA DISCLAIMER:**
+> - 🇧🇷 **PT-BR:** Este projeto é um estudo de caso derivado de um servidor em VPS configurado para um cliente privado (taxa horária de **$20/h**, total faturado de **$1.250 USD**). Todas as configurações em produção já foram atualizadas e todos os dados sensíveis, credenciais reais, portas, IPs e chaves de API foram completamente removidos ou mockados.
+> - 🇺🇸 **EN:** This project is an architectural case study of a production VPS server delivered for a private client (rate of **$20/hr**, total payout **$1,250.00 USD**). All configurations have already been updated in production and all sensitive information, real credentials, ports, IPs, and API keys have been strictly stripped or mocked.
 
 ---
 
