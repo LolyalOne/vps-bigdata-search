@@ -134,7 +134,7 @@ graph TD
 ### <a id="-modular-project-structure-en"></a>📂 Modular Project Structure
 
 ```bash
-portfolio_bigdata_search/
+vps-bigdata-search/
 ├── ⚙️ data_engine/              # Cleansing, ETL and onomastic classification engine
 │   ├── clean_reference_tables.py  # Anomaly purging on geographic reference tables
 │   ├── comune_standardizer.py     # Phonetic and semantic standardizer for municipalities
@@ -358,7 +358,7 @@ graph TD
 ### <a id="-estrutura-modular-do-projeto-pt"></a>📂 Estrutura Modular do Projeto
 
 ```bash
-portfolio_bigdata_search/
+vps-bigdata-search/
 ├── ⚙️ data_engine/              # Pipeline de higienização, cura e classificação onomástica
 │   ├── clean_reference_tables.py  # Purga de dados inválidos em tabelas de apoio
 │   ├── comune_standardizer.py     # Padronização fonética e semântica de municípios
